@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: "Andhapp Limited"
+title: ''
 email: 'anuj@andhapp.com'
 description: "We are a Software Consultancy based in London. Over the last 10 years, we have successfully delivered projects of all shapes and sizes – hybrid mobile apps, search solutions using Solr/Elasticsearch or project management to steer the ship in the right direction."
 baseurl: "" # the subpath of your site, e.g. /blog
