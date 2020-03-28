@@ -5,7 +5,7 @@ title: 'BBC Snippets'
 date: 2016-02-20 15:56:00
 categories: development
 tags: Ruby Rails Sinatra JavaScript Microservices API Solr TDD
-featured_image: '/img/posts/bbc_snippets-1130x864.png'
+featured_image: '/img/posts/bbc_snippets.jpg'
 project_link: 'https://www.youtube.com/watch?v=eVcjXdF3Sa0'
 button_icon: 'flask'
 button_text: 'Visit Project'
